@@ -69,4 +69,4 @@ Durante el entrenamiento se guarda un checkpoint en `checkpoints/checkpoint_<dat
 
 ## Autores
 
-Llorente, Capa, Villegas y Taillefer.
+César Villegas Taillefer y Javier Llorente Capa.
