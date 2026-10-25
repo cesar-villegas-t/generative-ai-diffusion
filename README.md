@@ -1,4 +1,4 @@
-# generative-ai-system
+# generative-ai-diffusion
 
 Sistema de generación de imágenes mediante **modelos de difusión basados en scores** (score-based diffusion), implementado en PyTorch. Proyecto de la asignatura Aprendizaje Automático III.
 
@@ -29,7 +29,7 @@ Permite entrenar un modelo sobre **MNIST** o **CIFAR-10**, generar imágenes a p
 
 ```bash
 git clone <URL-del-repositorio>
-cd generative-ai-system
+cd generative-ai-diffusion
 python -m venv .venv
 source .venv/bin/activate   # En Windows: .venv\Scripts\activate
 pip install -r requirements.txt
